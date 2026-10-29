@@ -1,0 +1,8 @@
+streamlit
+pandas
+Pillow
+pypdf
+python-docx
+pytesseract
+pytsk3
+ollama
